@@ -20,3 +20,8 @@ a {
 * {
     word-wrap: break-word;
 }
+
+img {
+    width: 90%;
+    max-width: 800px;
+}
